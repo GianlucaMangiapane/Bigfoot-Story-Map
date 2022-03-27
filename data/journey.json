@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Ape Canyon, Washington State",
+        "era": "1924 Miner Fight",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1253967,
+          46.19750708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Menlung Basin, Nepal",
+        "era": "Menlung Basin",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.52274830958959,
+          27.962915559847612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Bluff Creek, California",
+        "era": "1967 Bluff Creek",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.69509885796779,
+          41.29679746628104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Johnstown, Pennsylvania",
+        "era": "1980 Johnstown",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98139516346971,
+          40.22722453309715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Blue Mountains, Oregon",
+        "era": "1980 Blue Mountains",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11143248285826,
+          45.95529586296447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Shennongjia National Nature Reserve, China",
+        "era": "1995 Yeren",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3318343,
+          31.58931875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Big Cyprus Reserve, Florida",
+        "era": "2000 Skunk Ape",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07554834,
+          26.04858938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Marble Mountains, California",
+        "era": "2001 Marble Mountains",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2061837,
+          41.49061678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Allegheny National Forest, Pennsylvania",
+        "era": "2007 Allegheny",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00655911,
+          41.64870144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Provo Canyon Sighting #1, Utah",
+        "era": "2012 Provo Sighting",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5687765,
+          40.35250797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Provo Canyon Sighting #2, Utah",
+        "era": "2012 Provo Throwing",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6373501,
+          40.32926754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Yellowstone National Park, Wyoming",
+        "era": "2015 Yellowstone",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.83997546780192,
+          44.43997636035463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Tunica, Mississippi",
+        "era": "2019 Tunica",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.40934557335099,
+          34.643388388002045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Sherman Pass, Washington State",
+        "era": "2020 Sherman",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.479544,
+          48.60773161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Yosemite National Park, California ",
+        "era": "Fourth of July",
+        "type": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5194986,
+          37.85581964
+        ]
+      }
+    }
+  ]
+}
