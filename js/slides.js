@@ -33,7 +33,7 @@ const slides = [
   {
     title: '1924: Should have seen the other guy at Ape Canyon, Washington State',
     content: `
-      Five prospectors coming back from the bar-I mean work claimed to
+      Five prospectors coming back from work claimed to
       have gotten into a brawl, beating back four "gorilla men covered with long, black hair,”
       and weighing around 400 pounds. Locals dispute this happened though since no video was uploaded to Worldstar.
       <img
@@ -123,6 +123,7 @@ const slides = [
     content: `
       David Shealy lived in a tree hammock for a few years and in July of 2000 captured footage of a Skunk Ape
       strolling across the swamp, and then breaking into a run, evidence that Sasquatch enjoy exercise just like humans.
+      <br/><br/>
       Shealy was heard muttering that it wouldn't be a bad idea for him to go to the gym as well.
       <img
         src="img/skunkape.gif"
