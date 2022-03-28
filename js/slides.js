@@ -214,7 +214,7 @@ const slides = [
     Mississippi resident Josh Highcliff captured video of this potential bigfoot
     while hunting on his property in 2019. Too scared to go back, he posted the footage to
     YouTube asking for help to identify the animal or for a prankster to come forward.
-    The local costume shop had no comment except "get a life and stop calling".
+    When asked, the local costume shop had no comment except "get a life and stop calling".
     <img
       src="img/mississippi.gif"
       alt="Mississippi Skunk Ape">
