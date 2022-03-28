@@ -12,11 +12,30 @@ const slides = [
   },
 
   {
+    title: "So what exactly is a Bigfoot?",
+    content: `
+      Bigfoot is **Cryptid**, or an "animal that's been claimed to exist but there is no proven fact it exists",
+      similar to the "Loch Ness Monster" or available office hours slots. Large, hairy, human-like Ape creatures have been
+      reported throughout human time and place, either called **Sasqutch** in North America, the **Yeti** in Tibet/Nepal, the **Yeren** in China,
+      and the **Skunk Ape** in the American South.
+
+      Skeptics claim sightings are either partially visible animals or humans in costumes,
+      but today we will go through some famous sightings, and you can be the judge.
+
+      <img
+        src="img/thumbs-up-big-foot.gif"
+        alt="thumbs up gif">
+    `,
+    era: null,
+    bounds: [[-75, -180], [75, 180]],
+  },
+
+  {
     title: '1924: Should have seen the other guy at Ape Canyon, Washington State',
     content: `
       Five prospectors coming back from the bar-I mean work claimed to
       have gotten into a brawl, beating back four "gorilla men covered with long, black hair,”
-      and weighing around 400 pounds. Accounts say their wives were not impressed.
+      and weighing around 400 pounds. Locals dispute this happened though since no video was uploaded to Worldstar.
       <img
         src="img/1924.jpg"
         alt="Newspaper photo of the miner fight">
@@ -44,7 +63,7 @@ const slides = [
     content: `
       Arguably the most famous and influential Bigfoot video is the 1967 film shot
       by Roger Patterson and Bob Gimlin in Northern California, making Bigfoot a movie star.
-      Although some dillusional viewers believe it to be an actor in a gorilla costume,
+      Although some delusional viewers believe it to be an actor in a gorilla costume,
       this film never got nominated for an award so must not be a very good actor.
       <img
         src="img/Patterson-Gimlin.gif"
@@ -74,7 +93,7 @@ const slides = [
     title: '1994: A Freeman and an Ape Man near the Blue Mountains, Oregon',
     content: `
       In 1994, US Forest Service worker and avid bigfoot cryptologist Paul Freeman shot a video of what is
-      said to be a at least Sasquatch wandering around.
+      said to be a at least 2 Sasquatch wandering around.
       The quality isn't great for specific detail, but Freeman was happy with the video since he remembered to
       take the cap off the lense this time.
       <img
@@ -102,7 +121,7 @@ const slides = [
   {
     title: '2000: Florida Man spots Skunk Ape in Big Cyprus Reserve, Florida',
     content: `
-      In July, David Shealy lived in a tree hammock for a few years and captured footage of a Skunk Ape
+      David Shealy lived in a tree hammock for a few years and in July of 2000 captured footage of a Skunk Ape
       strolling across the swamp, and then breaking into a run, evidence that Sasquatch enjoy exercise just like humans.
       Shealy was heard muttering that it wouldn't be a bad idea for him to go to the gym as well.
       <img
@@ -134,7 +153,7 @@ const slides = [
       In 2007, hunter Rick Jacobs captured some of the most famous bigfoot images to date with a
       camera mounted to a tree in Pennsylvania’s Allegheny National Forest.
       Skeptics believe the animal is just a bear suffering from hair loss,
-      but mid-life Sasquatch have been documented to comb-over their hair before.
+      but Sasquatch are hesitant to shave their thinning hair because not everyone will look like Vin Diesel.
       <img
         src="img/Allegheny-National-Forest.jpg"
         alt="Allegheny Photo">
@@ -163,7 +182,7 @@ const slides = [
       Later in December of 2012, another hiker was walking through the Utah Hills near Provo Canyon
       when he spotted a large animal in the woods. As he approached, the Sasquatch stood up
       on two legs and threw a rock. While his team could use a left handed pitcher in their sunday softball league,
-      the hiker throught best not to stick around and ask.
+      the hiker passed on asking Bigfoot.
       <img
         src="img/throw.gif"
         alt="Bigfoot Throwing Video">
@@ -181,6 +200,9 @@ const slides = [
       <img
         src="img/bison.gif"
         alt="Bigfoot and Bison video">
+      <img
+        src="img/buffalo.gif"
+        alt="Bigfoot superimposed">
     `,
     era: '2015 Yellowstone',
     showpopups: true,
@@ -190,9 +212,9 @@ const slides = [
     title: '2019: It\s just a prank bro in Tunica, Mississippi',
     content: `
     Mississippi resident Josh Highcliff captured video of this potential bigfoot
-    while hunting on his property in 2019.Too scared to go back, he posted the footage to
+    while hunting on his property in 2019. Too scared to go back, he posted the footage to
     YouTube asking for help to identify the animal or for a prankster to come forward.
-    The local costume shop had no comment except "for the last time stop calling".
+    The local costume shop had no comment except "get a life and stop calling".
     <img
       src="img/mississippi.gif"
       alt="Mississippi Skunk Ape">
@@ -220,10 +242,10 @@ const slides = [
     title: 'Year Unknown: Stay Away from my Baby in Yosemite National Park, California',
     content: `
       We don't know who filmed this video, where it was filmed or what year it was filmed,
-      and as such its the most foolproof evidence we have of Bigfoot exisiting.
+      and as such its the strongest evidence we have of Bigfoot exisiting.
       It was posted to Youtube on the fourth of July and its speculated to be in Yosemite National Park.
-      It shows a mother Sasquatch holding a cub, before
-      rushing off after being scared by the human rudely filming their time together.
+      It shows a mother Sasquatch holding a cub, before noticing the cameraman is not wearing a mask,
+      and she distances herself since her family is not vaccinated.
       <img
         src="img/fourthofjuly.gif"
         alt="Fourth of July Video">
